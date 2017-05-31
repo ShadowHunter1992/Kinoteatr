@@ -1,0 +1,20 @@
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe.config
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\bin\Debug\kinoteatr.pdb
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csprojResolveAssemblyReference.cache
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Form1.resources
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Properties.Resources.resources
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csproj.GenerateResource.Cache
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.exe
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.pdb
+c:\users\huseyn-laptop\documents\visual studio 2017\Projects\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Form2.resources
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe.config
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\bin\Debug\kinoteatr.exe
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\bin\Debug\kinoteatr.pdb
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csprojResolveAssemblyReference.cache
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Form1.resources
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Form2.resources
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.Properties.Resources.resources
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.csproj.GenerateResource.Cache
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.exe
+C:\Users\P501\Desktop\p101-p201-18-05-2017-ShadowHunter1992-master\kinoteatr\kinoteatr\obj\Debug\kinoteatr.pdb
